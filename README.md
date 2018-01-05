@@ -114,8 +114,8 @@ ul {
     </div>
     <div class='right'>
       <div class='address'>
-        <div>你的专业：网络舆情监测</div>
-        <div>你的学校：四川文化产业职业学院
+        <div>网络舆情监测</div>
+        <div>四川文化产业职业学院
 </div>
         <div>你的城市</div>
       </div>
